@@ -1,0 +1,6 @@
+{
+  "name": "SDSR Ph.D. RPC Portal",
+  "description": "University Ph.D. Administration Portal for Research Progress Committee (RPC) application processing, regulatory compliance audit, and Dean SDSR digital approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
